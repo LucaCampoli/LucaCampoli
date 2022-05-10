@@ -27,7 +27,6 @@ Role: Lead Developer & Sprite Artist
 
 ![Ghost Sprite](Ghost.gif)
 
-
 <h4>Hobbies:</h4>
 <ul>
 <li> Swimming
@@ -35,9 +34,6 @@ Role: Lead Developer & Sprite Artist
 <li> Pixel Art
 </ul>
 <br>
-
-![Recent Project](Starfall.png)
-
 
 <h4>Interests:</h4>
 <ul>
