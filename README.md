@@ -16,6 +16,11 @@ Instagram: @luca_campoli36 <br>
 <p>University of Waterloo 🦆 - Nanotechnology Engineering</p>
 <br>
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=LucaCampoli&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCampoli&layout=compact)
+
+
 <h4>Previous Project:</h4>
 <a href="https://github.com/LucaCampoli/Vlad-Vacuum">Vlad Vacuum</a><br>
 
