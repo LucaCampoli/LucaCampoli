@@ -1,4 +1,5 @@
 <!-- <p style="color:#f2eee8;font-family:verdana"> text formatting -->
+
 ![Luca Campoli, uWaterloo '26, Nanotechnology Engineer, Undergraduate Student](ralseibanner.png)
 
 <h2>Hello!</h2>
@@ -19,18 +20,24 @@ Instagram: @luca_campoli36 <br>
 <a href="https://github.com/LucaCampoli/Vlad-Vacuum">Vlad Vacuum</a><br>
 
 <p>
-For: York Region Skills Competition
+For: York Region Skills Competition <br>
 Role: Lead Developer & Sprite Artist
 </p>
 <br>
 
+![Ghost Sprite](ghost.gif)
+
+
 <h4>Hobbies:</h4>
 <ul>
-<li> Pixel Art
-<li> Video Game Development
 <li> Swimming
+<li> Video Game Development
+<li> Pixel Art
 </ul>
 <br>
+
+![Recent Project](starfall.png)
+
 
 <h4>Interests:</h4>
 <ul>
