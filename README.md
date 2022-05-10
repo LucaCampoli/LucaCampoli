@@ -25,7 +25,7 @@ Role: Lead Developer & Sprite Artist
 </p>
 <br>
 
-![Ghost Sprite](ghost.gif)
+![Ghost Sprite](Ghost.gif)
 
 
 <h4>Hobbies:</h4>
@@ -36,7 +36,7 @@ Role: Lead Developer & Sprite Artist
 </ul>
 <br>
 
-![Recent Project](starfall.png)
+![Recent Project](Starfall.png)
 
 
 <h4>Interests:</h4>
