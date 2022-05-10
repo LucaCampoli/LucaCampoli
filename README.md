@@ -48,6 +48,8 @@ Role: Lead Developer & Sprite Artist
 <li> Video Games
 </ul>
 
+<h4>Contact Me:</h4>
+
 <a href="mailto:lucacampoli36@gmail.com">![lucacampoli36@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <a href="<https://www.linkedin.com/in/luca-campoli-64059b202>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
