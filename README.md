@@ -29,6 +29,9 @@ Instagram: @luca_campoli36 <br>
 ![C#](c#.png)
 ![Cura](Cura.png)
 ![Unity](Unity.png)
+![Figma](Figma.png)
+![GitBash](GitBash.png)
+![Matlab](Matlab.png)
 
 
 <p>java,github,python,sketchup,solidworks,c#,cura,unity</p>
