@@ -35,7 +35,7 @@ Instagram: @luca_campoli36 <br>
 <img src="GitBash.png" alt="GitBash" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<p>java,github,python,sketchup,solidworks,c#,cura,unity</p>
+<h4>Statistics:</h4>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=LucaCampoli&count_private=true&show_icons=true&hide=contribs)
 
