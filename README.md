@@ -2,6 +2,9 @@
 
 ![Luca Campoli, uWaterloo '26, Nanotechnology Engineer, Undergraduate Student](ralseibanner.png)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=LucaCampoli.LucaCampoli)
+[![Github](https://img.shields.io/github/followers/LucaCampoli?label=Follow&style=social)](https://github.com/LucaCampoli)
+
 <h2>Hello!</h2>
 
 <h3>I'm Luca Campoli</h3>
@@ -15,6 +18,20 @@ Instagram: @luca_campoli36 <br>
 <h4>Currently Studying At:</h4>
 <p>University of Waterloo 🦆 - Nanotechnology Engineering</p>
 <br>
+
+<h4>Languages and Tools:</h4>
+
+![Java](Java.png)
+![Github](Github.png)
+![Python](Python.png)
+![Sketchup](Sketchup.png)
+![Solidworks](Solidworks.png)
+![C#](c#.png)
+![Cura](Cura.png)
+![Unity](Unity.png)
+
+
+<p>java,github,python,sketchup,solidworks,c#,cura,unity</p>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=LucaCampoli&count_private=true&show_icons=true&hide=contribs)
 
