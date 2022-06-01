@@ -21,18 +21,19 @@ Instagram: @luca_campoli36 <br>
 
 <h4>Languages and Tools:</h4>
 
-![Java](Java.png)
-![Github](Github.png)
-![Python](Python.png)
-![Sketchup](Sketchup.png)
-![Solidworks](Solidworks.png)
-![C#](c#.png)
-![Cura](Cura.png)
-![Unity](Unity.png)
-![Figma](Figma.png)
-![GitBash](GitBash.png)
-![Matlab](Matlab.png)
-
+<p align="center">
+<img src="Java.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="Github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="Python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="Sketchup.ico" alt="Sketchup" height="40" style="vertical-align:top; margin:4px">
+<img src="Matlab.png" alt="Matlab" height="40" style="vertical-align:top; margin:4px">
+<img src="Solidworks.png" alt="Solidworks" height="40" style="vertical-align:top; margin:4px">
+<img src="c.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="Cura.png" alt="Cura" height="40" style="vertical-align:top; margin:4px">
+<img src="Unity.webp" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+<img src="Figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+<img src="GitBash.png" alt="GitBash" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 <p>java,github,python,sketchup,solidworks,c#,cura,unity</p>
 
